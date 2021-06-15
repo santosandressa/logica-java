@@ -1,1 +1,1 @@
-# logica-java
+# Exercícios de lógica com Java
