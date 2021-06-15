@@ -1,4 +1,4 @@
-# Exercícios de lógica com Java
+## Exercícios de lógica de programação com Java
 
 
 <a href="https://github.com/santosandressa/logica-java/tree/main/java-logica/src/algoritmos">1. Algoritmos simples</a>
