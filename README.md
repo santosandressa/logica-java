@@ -4,7 +4,7 @@
 <a href="https://github.com/santosandressa/logica-java/tree/main/java-logica/src/algoritmos">1. Algoritmos simples</a>
 
 
-<a href="">2. Variaveis e Constantes</a>
+<a href="https://github.com/santosandressa/logica-java/tree/main/java-logica/src/variaveiseconstantes">2. Variaveis e Constantes</a>
 
 
 <a href="">3. Operadores</a>
