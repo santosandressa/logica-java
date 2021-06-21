@@ -7,7 +7,7 @@
 <a href="https://github.com/santosandressa/logica-java/tree/main/java-logica/src/variaveiseconstantes">2. Variaveis e Constantes</a>
 
 
-<a href="">3. Operadores</a>
+<a href="https://github.com/santosandressa/logica-java/tree/main/java-logica/src/operadores">3. Operadores</a>
 
 
 <a href="">4. Estruturas de decisão</a>
